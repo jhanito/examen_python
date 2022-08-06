@@ -1,0 +1,294 @@
+
+PMID- 30755626
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201015
+LR  - 20201015
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2019 Feb 12
+TI  - Gene silencing based on RNA-guided catalytically inactive Cas9 (dCas9): a new
+      tool for genetic engineering in Leptospira.
+PG  - 1839
+LID - 10.1038/s41598-018-37949-x [doi]
+AB  - Leptospirosis is a worldwide zoonosis caused by pathogenic bacteria of the genus 
+      Leptospira, which also includes free-living saprophyte strains. Many aspects of
+      leptospiral basic biology and virulence mechanisms remain unexplored mainly due
+      to the lack of effective genetic tools available for these bacteria. Recently,
+      the type II CRISPR/Cas system from Streptococcus pyogenes has been widely used as
+      an efficient genome engineering tool in bacteria by inducing double-strand breaks
+      (DSBs) in the desired genomic targets caused by an RNA-guided DNA endonuclease
+      called Cas9, and the DSB repair associated machinery. In the present work,
+      plasmids expressing heterologous S. pyogenes Cas9 in L. biflexa cells were
+      generated, and the enzyme could be expressed with no apparent toxicity to
+      leptospiral cells. However, L. biflexa cells were unable to repair RNA-guided
+      Cas9-induced DSBs. Thus, we used a catalytically dead Cas9 (dCas9) to obtain gene
+      silencing rather than disruption, in a strategy called CRISPR interference
+      (CRISPRi). We demonstrated complete gene silencing in L. biflexa cells when both 
+      dCas9 and single-guide RNA (sgRNA) targeting the coding strand of the
+      beta-galactosidase gene were expressed simultaneously. Furthermore, when the
+      system was applied for silencing the dnaK gene, no colonies were recovered,
+      indicating that DnaK protein is essential in Leptospira. In addition, flagellar
+      motor switch FliG gene silencing resulted in reduced bacterial motility. To the
+      best of our knowledge, this is the first work applying the CRISPRi system in
+      Leptospira and spirochetes in general, expanding the tools available for
+      understanding leptospiral biology.
+FAU - Fernandes, L G V
+AU  - Fernandes LGV
+AD  - Laboratorio Especial de Desenvolvimento de Vacinas, Instituto Butantan, Avenida
+      Vital Brasil, 1500, 05503-900, Sao Paulo, SP, Brazil.
+      luis.fernandes@butantan.gov.br.
+FAU - Guaman, L P
+AU  - Guaman LP
+AD  - Universidad Tecnologica Equinoccial, Centro de Investigacion Biomedica, Facultad 
+      de Ciencias de la Salud Eugenio Espejo, Avenida Mariscal Sucre y Mariana de
+      Jesus. Campus Occidental, 170105, Quito, Ecuador.
+FAU - Vasconcellos, S A
+AU  - Vasconcellos SA
+AD  - Laboratorio de Zoonoses Bacterianas do VPS, Faculdade de Medicina Veterinaria e
+      Zootecnia, USP, Avenida Prof. Dr. Orlando Marques de Paiva, 87, 05508-270, Sao
+      Paulo, SP, Brazil.
+FAU - Heinemann, Marcos B
+AU  - Heinemann MB
+AD  - Laboratorio de Zoonoses Bacterianas do VPS, Faculdade de Medicina Veterinaria e
+      Zootecnia, USP, Avenida Prof. Dr. Orlando Marques de Paiva, 87, 05508-270, Sao
+      Paulo, SP, Brazil.
+FAU - Picardeau, M
+AU  - Picardeau M
+AD  - Institut Pasteur, Biology of Spirochetes Unit, 25 rue du Dr Roux, 75723, Paris,
+      France.
+FAU - Nascimento, A L T O
+AU  - Nascimento ALTO
+AUID- ORCID: 0000-0003-4851-0870
+AD  - Laboratorio Especial de Desenvolvimento de Vacinas, Instituto Butantan, Avenida
+      Vital Brasil, 1500, 05503-900, Sao Paulo, SP, Brazil.
+      ana.nascimento@butantan.gov.br.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190212
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (RNA, Guide)
+RN  - 63231-63-0 (RNA)
+RN  - EC 3.1.- (CRISPR-Associated Protein 9)
+SB  - IM
+MH  - CRISPR-Associated Protein 9/metabolism
+MH  - CRISPR-Cas Systems
+MH  - Gene Silencing
+MH  - Genetic Engineering/*methods
+MH  - Leptospira/*physiology
+MH  - RNA
+MH  - RNA, Guide/*genetics
+MH  - Streptococcus pyogenes/*genetics
+PMC - PMC6372684
+EDAT- 2019/02/14 06:00
+MHDA- 2020/10/21 06:00
+CRDT- 2019/02/14 06:00
+PHST- 2018/08/13 00:00 [received]
+PHST- 2018/12/10 00:00 [accepted]
+PHST- 2019/02/14 06:00 [entrez]
+PHST- 2019/02/14 06:00 [pubmed]
+PHST- 2020/10/21 06:00 [medline]
+AID - 10.1038/s41598-018-37949-x [doi]
+AID - 10.1038/s41598-018-37949-x [pii]
+PST - epublish
+SO  - Sci Rep. 2019 Feb 12;9(1):1839. doi: 10.1038/s41598-018-37949-x.
+
+PMID- 29896914
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190703
+LR  - 20190703
+IS  - 1097-0290 (Electronic)
+IS  - 0006-3592 (Linking)
+VI  - 115
+IP  - 9
+DP  - 2018 Sep
+TI  - Developing a Cas9-based tool to engineer native plasmids in Synechocystis sp. PCC
+      6803.
+PG  - 2305-2314
+LID - 10.1002/bit.26747 [doi]
+AB  - The oxygenic photosynthetic bacterium Synechocystis sp. PCC 6803 (S6803) is a
+      model cyanobacterium widely used for fundamental research and biotechnology
+      applications. Due to its polyploidy, existing methods for genome engineering of
+      S6803 require multiple rounds of selection to modify all genome copies, which is 
+      time-consuming and inefficient. In this study, we engineered the Cas9 tool for
+      one-step, segregation-free genome engineering. We further used our Cas9 tool to
+      delete three of seven S6803 native plasmids. Our results show that all three
+      small-size native plasmids, but not the large-size native plasmids, can be
+      deleted with this tool. To further facilitate heterologous gene expression in
+      S6803, a shuttle vector based on the native plasmid pCC5.2 was created. The
+      shuttle vector can be introduced into Cas9-containing S6803 in one step without
+      requiring segregation and can be stably maintained without antibiotic pressure
+      for at least 30 days. Moreover, genes encoded on the shuttle vector remain
+      functional after 30 days of continuous cultivation without selective pressure.
+      Thus, this study provides a set of new tools for rapid modification of the S6803 
+      genome and for stable expression of heterologous genes, potentially facilitating 
+      both fundamental research and biotechnology applications using S6803.
+CI  - (c) 2018 Wiley Periodicals, Inc.
+FAU - Xiao, Yi
+AU  - Xiao Y
+AD  - Department of Energy, Environmental and Chemical Engineering, Washington
+      University in St. Louis, Saint Louis, Missori.
+AD  - Present address: State Key Laboratory for Microbial Metabolism, School of Life
+      Sciences & Biotechnology, Shanghai Jiao Tong University, Shanghai, China.
+FAU - Wang, Shaojie
+AU  - Wang S
+AD  - Department of Energy, Environmental and Chemical Engineering, Washington
+      University in St. Louis, Saint Louis, Missori.
+FAU - Rommelfanger, Sarah
+AU  - Rommelfanger S
+AD  - Division of Biological & Biomedical Sciences, Washington University in St. Louis,
+      Saint Louis, Missori.
+FAU - Balassy, Andrea
+AU  - Balassy A
+AD  - Department of Energy, Environmental and Chemical Engineering, Washington
+      University in St. Louis, Saint Louis, Missori.
+FAU - Barba-Ostria, Carlos
+AU  - Barba-Ostria C
+AD  - Department of Energy, Environmental and Chemical Engineering, Washington
+      University in St. Louis, Saint Louis, Missori.
+AD  - Present address: Department of Health Sciences, Ambato Technical University,
+      Ambato, Ecuador.
+FAU - Gu, Pengfei
+AU  - Gu P
+AD  - Department of Energy, Environmental and Chemical Engineering, Washington
+      University in St. Louis, Saint Louis, Missori.
+FAU - Galazka, Jonathan M
+AU  - Galazka JM
+AD  - Space Biosciences Division, Ames Research Center, National Aeronautics and Space 
+      Administration, Mountain View, California.
+FAU - Zhang, Fuzhong
+AU  - Zhang F
+AUID- ORCID: 0000-0001-6979-7909
+AD  - Department of Energy, Environmental and Chemical Engineering, Washington
+      University in St. Louis, Saint Louis, Missori.
+AD  - Division of Biological & Biomedical Sciences, Washington University in St. Louis,
+      Saint Louis, Missori.
+AD  - Institute of Materials Science & Engineering, Washington University in St. Louis,
+      Saint Louis, Misssori.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20180629
+PL  - United States
+TA  - Biotechnol Bioeng
+JT  - Biotechnology and bioengineering
+JID - 7502021
+RN  - EC 3.1.- (CRISPR-Associated Protein 9)
+SB  - IM
+MH  - CRISPR-Associated Protein 9/*metabolism
+MH  - Gene Editing/*methods
+MH  - Gene Expression
+MH  - *Genetic Vectors
+MH  - Genetics, Microbial/*methods
+MH  - Genomic Instability
+MH  - *Plasmids
+MH  - Recombination, Genetic
+MH  - Synechocystis/*genetics
+OTO - NOTNLM
+OT  - *CRISPR
+OT  - *Cas9
+OT  - *Synechocystis
+OT  - *genetic tools
+OT  - *segregation
+EDAT- 2018/06/14 06:00
+MHDA- 2019/07/04 06:00
+CRDT- 2018/06/14 06:00
+PHST- 2018/02/04 00:00 [received]
+PHST- 2018/05/06 00:00 [revised]
+PHST- 2018/06/05 00:00 [accepted]
+PHST- 2018/06/14 06:00 [pubmed]
+PHST- 2019/07/04 06:00 [medline]
+PHST- 2018/06/14 06:00 [entrez]
+AID - 10.1002/bit.26747 [doi]
+PST - ppublish
+SO  - Biotechnol Bioeng. 2018 Sep;115(9):2305-2314. doi: 10.1002/bit.26747. Epub 2018
+      Jun 29.
+
+PMID- 29714581
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190416
+LR  - 20200103
+IS  - 2168-4804 (Electronic)
+IS  - 2168-4790 (Linking)
+VI  - 52
+IP  - 6
+DP  - 2018 Nov
+TI  - CRISPR-Cas9: A Precise Approach to Genome Engineering.
+PG  - 701-707
+LID - 10.1177/2168479018762798 [doi]
+AB  - In the last few decades, genomic manipulation has made significant progress as a 
+      result of the development of recombinant DNA technologies; however, more often
+      than not, these techniques have been costly and labor intensive. In contrast,
+      recently developed next-generation sequencing (NGS) technologies have provided a 
+      cheaper, faster, and easier process to study genomics. In particular, an NGS
+      technique emerged from bacterial CRISPR-associated protein-9 nuclease (Cas9) as a
+      revolutionary method to modify, regulate, or mark specific genomic sequences on
+      virtually any organism. A later adaptation of this bacterial defense mechanism
+      that successfully and permanently edits dysfunctional genes and corrects missing 
+      proteins has resulted in a new era for disease genetic engineering. Clinical
+      trials using this technique are already being performed, and the applicability of
+      CRISPR-Cas9 techniques is actively being investigated using in vivo studies.
+      However, the concept of genome correction poses great concerns from a regulatory 
+      perspective, especially in terms of security, so principles for the regulation of
+      these methodologies are being established. We delved into CRISPR-Cas9 from its
+      natural and ortholog origins to its engineered variants and behaviors to present 
+      its notable and diverse applications in the fields of biotechnology and human
+      therapeutics.
+FAU - Simon, Jorge E
+AU  - Simon JE
+AD  - 1 School of Biological Sciences and Engineering, Yachay Tech University, Urcuqui,
+      Ecuador.
+FAU - Rodriguez, Angel S
+AU  - Rodriguez AS
+AD  - 1 School of Biological Sciences and Engineering, Yachay Tech University, Urcuqui,
+      Ecuador.
+FAU - Santiago Vispo, Nelson
+AU  - Santiago Vispo N
+AUID- ORCID: 0000-0002-4081-3984
+AD  - 1 School of Biological Sciences and Engineering, Yachay Tech University, Urcuqui,
+      Ecuador.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180402
+PL  - Switzerland
+TA  - Ther Innov Regul Sci
+JT  - Therapeutic innovation & regulatory science
+JID - 101597411
+RN  - 0 (Bacterial Proteins)
+RN  - EC 3.1.- (CRISPR-Associated Protein 9)
+SB  - IM
+MH  - Bacterial Proteins/metabolism
+MH  - CRISPR-Associated Protein 9/*metabolism
+MH  - CRISPR-Cas Systems
+MH  - Clinical Trials as Topic/legislation & jurisprudence
+MH  - Genetic Engineering/*legislation & jurisprudence/methods
+MH  - Genome, Human
+MH  - High-Throughput Nucleotide Sequencing
+MH  - Humans
+MH  - Mutation
+MH  - Sequence Analysis, DNA
+OTO - NOTNLM
+OT  - *CRISPR-Cas9
+OT  - *NGS
+OT  - *bacterial adaptive defense system
+OT  - *clinical trials
+OT  - *genetic engineering
+EDAT- 2018/05/02 06:00
+MHDA- 2019/04/17 06:00
+CRDT- 2018/05/02 06:00
+PHST- 2018/05/02 06:00 [pubmed]
+PHST- 2019/04/17 06:00 [medline]
+PHST- 2018/05/02 06:00 [entrez]
+AID - 10.1177/2168479018762798 [doi]
+PST - ppublish
+SO  - Ther Innov Regul Sci. 2018 Nov;52(6):701-707. doi: 10.1177/2168479018762798. Epub
+      2018 Apr 2.
